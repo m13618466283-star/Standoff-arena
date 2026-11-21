@@ -1,0 +1,18 @@
+{
+  "name": "Standoff Arena",
+  "short_name": "Standoff",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#14110d",
+  "theme_color": "#14110d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
